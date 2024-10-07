@@ -8,5 +8,10 @@
     "name": "app-router",
     "path": "docs/02-app",
     "children": []
+  },
+  {
+    "name": "a",
+    "path": "docs/02-app/01-building-your-application",
+    "children": []
   }
 ]
