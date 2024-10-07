@@ -1,0 +1,37 @@
+[
+  {
+    "name": "a",
+    "path": "outstatic/content/a",
+    "children": []
+  },
+  {
+    "name": "data-fetching",
+    "path": "outstatic/content/data-fetching",
+    "children": []
+  },
+  {
+    "name": "docs",
+    "path": "outstatic/content/docs",
+    "children": []
+  },
+  {
+    "name": "getting-started",
+    "path": "outstatic/content/getting-started",
+    "children": []
+  },
+  {
+    "name": "love",
+    "path": "outstatic/content/love",
+    "children": []
+  },
+  {
+    "name": "my-collection",
+    "path": "outstatic/content/my-collection",
+    "children": []
+  },
+  {
+    "name": "some",
+    "path": "outstatic/content/some",
+    "children": []
+  }
+]
