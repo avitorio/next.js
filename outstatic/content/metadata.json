@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2024-10-08T13:16:56.071Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "198612622",
+        "path": "outstatic/content/app-router/something-a-new.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "app-router",
+      "publishedAt": "2024-10-08T12:58:48.695Z",
+      "slug": "something-a-new",
+      "status": "draft",
+      "title": "Something a new"
+    }
+  ]
+}
