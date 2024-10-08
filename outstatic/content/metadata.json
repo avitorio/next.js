@@ -1,6 +1,6 @@
 {
-  "commit": "35a18bab4be342fd212bded96282e3803be8194d",
-  "generated": "2024-10-08T16:05:28.467Z",
+  "commit": "6bf89e7ff31865954f283c70eada4a3969a77550",
+  "generated": "2024-10-08T16:09:12.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,12 +122,13 @@
     },
     {
       "__outstatic": {
-        "commit": "35a18bab4be342fd212bded96282e3803be8194d",
-        "hash": "231392991",
+        "commit": "6bf89e7ff31865954f283c70eada4a3969a77550",
+        "hash": "3440086451",
         "path": "docs/01-getting-started/project-structure.mdx"
       },
       "author": {
-        "name": "Andre"
+        "name": "Andre",
+        "picture": "https://picsum.photos/200/300"
       },
       "collection": "getting-started",
       "description": "A list of folders and files conventions in a Next.js project",
