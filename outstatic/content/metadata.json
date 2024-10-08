@@ -1,6 +1,6 @@
 {
-  "commit": "83ed23783c366aa22ac065567ea2cc7d37c4630c",
-  "generated": "2024-10-08T21:53:49.912Z",
+  "commit": "acaf18e2f736528499f062a8d0b5dc7140add1ff",
+  "generated": "2024-10-08T21:56:47.660Z",
   "metadata": [
     {
       "__outstatic": {
@@ -165,16 +165,17 @@
     },
     {
       "__outstatic": {
-        "commit": "83ed23783c366aa22ac065567ea2cc7d37c4630c",
-        "hash": "3150068033",
+        "commit": "acaf18e2f736528499f062a8d0b5dc7140add1ff",
+        "hash": "2369345432",
         "path": "docs/it-s-a-new-doc.mdx"
       },
       "author": {
         "name": "Monon",
-        "picture": "/images/close-Y3MT.webp"
+        "picture": "/api/outstatic/media//avitorio/next.js/feat/test-1/public/images/close-Y3MT.webp"
       },
       "collection": "docs",
       "description": "",
+      "poster": "/images/tr-logo-main-k5OD.webp",
       "publishedAt": "2024-10-08T15:51:35.646Z",
       "slug": "it-s-a-new-doc",
       "status": "draft",
