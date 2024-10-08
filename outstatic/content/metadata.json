@@ -1,6 +1,6 @@
 {
-  "commit": "3200182461686b692f1d396530f0ebb1c3e27b0a",
-  "generated": "2024-10-08T21:13:46.426Z",
+  "commit": "54a6f949141edd524fce9e06c8ee1275afb67ffa",
+  "generated": "2024-10-08T21:14:08.297Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,17 +162,17 @@
     },
     {
       "__outstatic": {
-        "commit": "3200182461686b692f1d396530f0ebb1c3e27b0a",
-        "hash": "1304061420",
+        "commit": "54a6f949141edd524fce9e06c8ee1275afb67ffa",
+        "hash": "2970704671",
         "path": "docs/index.mdx"
       },
       "author": {
         "name": "asdd",
-        "picture": ""
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "docs",
       "description": "Welcome to the Next.js Documentation.",
-      "poster": "https://picsum.photos/500",
+      "poster": "/images/tr-logo-main-k5OD.webp",
       "publishedAt": "2024-10-08T15:25:23.470Z",
       "slug": "index",
       "status": "draft",
