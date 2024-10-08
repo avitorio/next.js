@@ -1,6 +1,6 @@
 {
-  "commit": "9849599fc8866ad7874722a4e473f4d2c1ad4e9d",
-  "generated": "2024-10-08T23:29:18.615Z",
+  "commit": "dc28c461a8b3af1c716d744304a8f9fadd75f696",
+  "generated": "2024-10-08T23:58:48.434Z",
   "metadata": [
     {
       "__outstatic": {
@@ -219,6 +219,23 @@
       "status": "draft",
       "title": "",
       "trip": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "dc28c461a8b3af1c716d744304a8f9fadd75f696",
+        "hash": "636932232",
+        "path": "docs/02-app/asdasd.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "app-router",
+      "painting": "/images/close-Y3MT.webp",
+      "publishedAt": "2024-10-08T23:39:58.147Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "title": ""
     }
   ]
 }
