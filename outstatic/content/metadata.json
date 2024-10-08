@@ -1,6 +1,6 @@
 {
-  "commit": "68b4caae04daaf65e4df77fafebfe11844e503e2",
-  "generated": "2024-10-08T15:57:04.507Z",
+  "commit": "54bc4255b8424c3efa0c4838981ff3131a494fe0",
+  "generated": "2024-10-08T15:58:11.047Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,6 +119,23 @@
       "slug": "index",
       "status": "draft",
       "title": "App Router"
+    },
+    {
+      "__outstatic": {
+        "commit": "54bc4255b8424c3efa0c4838981ff3131a494fe0",
+        "hash": "2896377499",
+        "path": "docs/01-getting-started/02-project-structure.mdx"
+      },
+      "author": {
+        "name": "Andre"
+      },
+      "collection": "getting-started",
+      "description": "A list of folders and files conventions in a Next.js project",
+      "nav_title": "Project Structure",
+      "publishedAt": "2024-10-08T15:39:51.668Z",
+      "slug": "02-project-structure",
+      "status": "draft",
+      "title": "Next.js Project Structure"
     }
   ]
 }
