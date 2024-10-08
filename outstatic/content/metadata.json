@@ -1,0 +1,17 @@
+{
+  "commit": "",
+  "generated": "Tue, 08 Oct 2024 14:32:57 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "bb8f7a10a631a04628c9ac36d102ba787f7b78e9",
+        "hash": "3310980492",
+        "path": "docs/index.mdx"
+      },
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "slug": "indexx",
+      "title": "Introduction"
+    }
+  ]
+}
