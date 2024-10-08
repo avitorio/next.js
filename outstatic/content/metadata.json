@@ -1,6 +1,6 @@
 {
-  "commit": "6bf89e7ff31865954f283c70eada4a3969a77550",
-  "generated": "2024-10-08T16:09:12.233Z",
+  "commit": "d92919abb3b055459618c69680acca3f1041888b",
+  "generated": "2024-10-08T16:09:43.733Z",
   "metadata": [
     {
       "__outstatic": {
@@ -137,6 +137,22 @@
       "slug": "project-structure",
       "status": "draft",
       "title": "Next.js Project Structure"
+    },
+    {
+      "__outstatic": {
+        "commit": "d92919abb3b055459618c69680acca3f1041888b",
+        "hash": "1130331343",
+        "path": "docs/it-s-a-new-doc.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "publishedAt": "2024-10-08T15:51:35.646Z",
+      "slug": "it-s-a-new-doc",
+      "status": "draft",
+      "title": "It's a new doc"
     }
   ]
 }
