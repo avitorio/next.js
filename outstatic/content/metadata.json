@@ -1,6 +1,6 @@
 {
-  "commit": "91f89e0114e98bf693ca6a5f994e4662db01e203",
-  "generated": "2024-10-08T17:26:36.418Z",
+  "commit": "31f582c080cdd4204dd64a78a60b36e95b1bbee9",
+  "generated": "2024-10-08T17:28:40.730Z",
   "metadata": [
     {
       "__outstatic": {
@@ -156,13 +156,13 @@
     },
     {
       "__outstatic": {
-        "commit": "91f89e0114e98bf693ca6a5f994e4662db01e203",
-        "hash": "734989717",
+        "commit": "31f582c080cdd4204dd64a78a60b36e95b1bbee9",
+        "hash": "1652820830",
         "path": "docs/01-getting-started/01-installation.mdx"
       },
       "author": {
         "name": "",
-        "picture": "/api/outstatic/media/avitorio/next.js/feat/test-1/public/images/close-Y3MT.webp"
+        "picture": "/images/close-Y3MT.webp"
       },
       "collection": "getting-started",
       "description": "Create a new Next.js application with `create-next-app`. Set up TypeScript, styles, and configure your `next.config.js` file.",
