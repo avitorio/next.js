@@ -1,41 +1,7 @@
 {
-  "commit": "152b5ca9b65635eeed18b7de360f4fff9e0b8546",
-  "generated": "2024-10-08T15:43:38.384Z",
+  "commit": "",
+  "generated": "Tue, 08 Oct 2024 15:45:48 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1b0c06c68950723be15127db2b824da2114ff482",
-        "hash": "2772659353",
-        "path": "docs/01-getting-started/02-project-structure.mdx"
-      },
-      "collection": "getting-started",
-      "description": "A list of folders and files conventions in a Next.js project",
-      "nav_title": "Project Structure",
-      "slug": "02-project-structurex",
-      "title": "Next.js Project Structure"
-    },
-    {
-      "__outstatic": {
-        "commit": "df84fb94cf1350dd8b0ee4edcd44cdcd1ceb300f",
-        "hash": "3962598013",
-        "path": "docs/01-getting-started/index.mdx"
-      },
-      "collection": "getting-started",
-      "description": "Learn how to create full-stack web applications with Next.js.",
-      "slug": "indexx",
-      "title": "Getting Started"
-    },
-    {
-      "__outstatic": {
-        "commit": "bb8f7a10a631a04628c9ac36d102ba787f7b78e9",
-        "hash": "3310980492",
-        "path": "docs/index.mdx"
-      },
-      "collection": "docs",
-      "description": "Welcome to the Next.js Documentation.",
-      "slug": "indexx",
-      "title": "Introduction"
-    },
     {
       "__outstatic": {
         "commit": "130bd4e5b97f27ff64185b47c333cd04663b3cde",
@@ -56,23 +22,23 @@
     },
     {
       "__outstatic": {
-        "commit": "b839092807dd184a21b0a926e82ad94bd284e4ca",
-        "hash": "2697877038",
-        "path": "docs/01-getting-started/outstatic-how-to.mdx"
+        "commit": "0ba99e1afae9125532e29c2eb23e009943fdd161",
+        "hash": "3070669677",
+        "path": "docs/index.mdx"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
+        "name": ""
       },
-      "collection": "getting-started",
-      "publishedAt": "2024-10-08T14:37:04.745Z",
-      "slug": "outstatic-how-to",
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "publishedAt": "2024-10-08T15:25:23.470Z",
+      "slug": "index",
       "status": "draft",
-      "title": "Outstatic how to"
+      "title": "Introduction"
     },
     {
       "__outstatic": {
-        "commit": "8d627769661c65749a72cec9cf47881315eb6c1c",
+        "commit": "1d30222f08b91cffe0843cec22da90d383487bd7",
         "hash": "3766611226",
         "path": "docs/01-getting-started/install-outstatic.mdx"
       },
@@ -89,19 +55,53 @@
     },
     {
       "__outstatic": {
-        "commit": "152b5ca9b65635eeed18b7de360f4fff9e0b8546",
-        "hash": "3070669677",
-        "path": "docs/index.mdx"
+        "commit": "1b0c06c68950723be15127db2b824da2114ff482",
+        "hash": "2772659353",
+        "path": "docs/01-getting-started/02-project-structure.mdx"
+      },
+      "collection": "getting-started",
+      "description": "A list of folders and files conventions in a Next.js project",
+      "nav_title": "Project Structure",
+      "slug": "02-project-structurex",
+      "title": "Next.js Project Structure"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2cd16a4a216dbfb6314e6fc40d392cb2176ee9b",
+        "hash": "668358264",
+        "path": "docs/02-app/index.mdx"
+      },
+      "collection": "app-router",
+      "description": "Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.",
+      "slug": "indexx",
+      "title": "App Router"
+    },
+    {
+      "__outstatic": {
+        "commit": "df84fb94cf1350dd8b0ee4edcd44cdcd1ceb300f",
+        "hash": "3962598013",
+        "path": "docs/01-getting-started/index.mdx"
+      },
+      "collection": "getting-started",
+      "description": "Learn how to create full-stack web applications with Next.js.",
+      "slug": "indexx",
+      "title": "Getting Started"
+    },
+    {
+      "__outstatic": {
+        "commit": "94bad8474ac8bc6a69714fbc728e598fc53fd910",
+        "hash": "2697877038",
+        "path": "docs/01-getting-started/outstatic-how-to.mdx"
       },
       "author": {
-        "name": ""
+        "name": "Andre Vitorio",
+        "picture": ""
       },
-      "collection": "docs",
-      "description": "Welcome to the Next.js Documentation.",
-      "publishedAt": "2024-10-08T15:25:23.470Z",
-      "slug": "index",
+      "collection": "getting-started",
+      "publishedAt": "2024-10-08T14:37:04.745Z",
+      "slug": "outstatic-how-to",
       "status": "draft",
-      "title": "Introduction"
+      "title": "Outstatic how to"
     }
   ]
 }
