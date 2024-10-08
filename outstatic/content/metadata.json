@@ -1,6 +1,6 @@
 {
-  "commit": "09697a306cffc20ad03cb1a59bebcca6d0564cb3",
-  "generated": "2024-10-08T16:59:12.406Z",
+  "commit": "4d526ffd43d20224331f33a50043dc956470a791",
+  "generated": "2024-10-08T17:00:52.049Z",
   "metadata": [
     {
       "__outstatic": {
@@ -156,8 +156,8 @@
     },
     {
       "__outstatic": {
-        "commit": "09697a306cffc20ad03cb1a59bebcca6d0564cb3",
-        "hash": "3783855662",
+        "commit": "4d526ffd43d20224331f33a50043dc956470a791",
+        "hash": "734989717",
         "path": "docs/01-getting-started/01-installation.mdx"
       },
       "author": {
