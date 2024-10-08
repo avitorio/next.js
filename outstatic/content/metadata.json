@@ -1,6 +1,6 @@
 {
-  "commit": "448c58a09400f66d22d1d541bf6a485974bce08d",
-  "generated": "2024-10-08T19:55:05.286Z",
+  "commit": "334f78abacad17c3e1ceceb0e6261f959040cae8",
+  "generated": "2024-10-08T20:08:30.002Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,12 +162,13 @@
     },
     {
       "__outstatic": {
-        "commit": "448c58a09400f66d22d1d541bf6a485974bce08d",
-        "hash": "1698746033",
+        "commit": "334f78abacad17c3e1ceceb0e6261f959040cae8",
+        "hash": "4098199317",
         "path": "docs/index.mdx"
       },
       "author": {
-        "name": "asdd"
+        "name": "asdd",
+        "picture": ""
       },
       "collection": "docs",
       "description": "Welcome to the Next.js Documentation.",
