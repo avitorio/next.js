@@ -25,6 +25,12 @@
       "fieldType": "Image",
       "dataType": "image",
       "title": "Image"
+    },
+    "asddsda": {
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "asddsda"
     }
   }
 }
