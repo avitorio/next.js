@@ -1,6 +1,6 @@
 {
-  "commit": "54bc4255b8424c3efa0c4838981ff3131a494fe0",
-  "generated": "2024-10-08T15:58:11.047Z",
+  "commit": "5d48733aa3f88a0f297588f1c1b0e6c870d25f37",
+  "generated": "2024-10-08T16:00:36.798Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,7 +122,7 @@
     },
     {
       "__outstatic": {
-        "commit": "54bc4255b8424c3efa0c4838981ff3131a494fe0",
+        "commit": "5d48733aa3f88a0f297588f1c1b0e6c870d25f37",
         "hash": "2896377499",
         "path": "docs/01-getting-started/02-project-structure.mdx"
       },
