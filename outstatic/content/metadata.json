@@ -1,6 +1,6 @@
 {
-  "commit": "8fb220c71f7f66832705f4850cac0ea88f9a7c46",
-  "generated": "2024-10-08T15:49:42.931Z",
+  "commit": "aa2ec101c87d7b92ea313793501d04df7fa41ed5",
+  "generated": "2024-10-08T15:51:22.500Z",
   "metadata": [
     {
       "__outstatic": {
@@ -105,12 +105,12 @@
     },
     {
       "__outstatic": {
-        "commit": "8fb220c71f7f66832705f4850cac0ea88f9a7c46",
-        "hash": "2568679871",
+        "commit": "aa2ec101c87d7b92ea313793501d04df7fa41ed5",
+        "hash": "4066404098",
         "path": "docs/02-app/index.mdx"
       },
       "author": {
-        "name": "Andre"
+        "name": "Andre V"
       },
       "collection": "app-router",
       "description": "Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.",
