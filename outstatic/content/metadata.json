@@ -1,6 +1,6 @@
 {
-  "commit": "62a560609e3308fb66223b960722a33304497cc7",
-  "generated": "2024-10-08T22:24:25.914Z",
+  "commit": "d076d27f3ae7c1b0c4cf79e69d3c6d6496ea4c4b",
+  "generated": "2024-10-08T23:28:36.121Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,8 +202,8 @@
     },
     {
       "__outstatic": {
-        "commit": "62a560609e3308fb66223b960722a33304497cc7",
-        "hash": "2235825133",
+        "commit": "d076d27f3ae7c1b0c4cf79e69d3c6d6496ea4c4b",
+        "hash": "4150855252",
         "path": "docs/asdasd.mdx"
       },
       "author": {
@@ -212,6 +212,8 @@
       },
       "collection": "docs",
       "description": "",
+      "image": "",
+      "poster": "",
       "publishedAt": "2024-10-08T22:05:01.607Z",
       "slug": "asdasd",
       "status": "draft",
