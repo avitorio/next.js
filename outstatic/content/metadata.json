@@ -1,6 +1,6 @@
 {
-  "commit": "8d627769661c65749a72cec9cf47881315eb6c1c",
-  "generated": "2024-10-08T15:37:33.853Z",
+  "commit": "152b5ca9b65635eeed18b7de360f4fff9e0b8546",
+  "generated": "2024-10-08T15:43:38.384Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,6 +86,22 @@
       "slug": "install-outstatic",
       "status": "draft",
       "title": "Install Outstatic"
+    },
+    {
+      "__outstatic": {
+        "commit": "152b5ca9b65635eeed18b7de360f4fff9e0b8546",
+        "hash": "3070669677",
+        "path": "docs/index.mdx"
+      },
+      "author": {
+        "name": ""
+      },
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "publishedAt": "2024-10-08T15:25:23.470Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "Introduction"
     }
   ]
 }
