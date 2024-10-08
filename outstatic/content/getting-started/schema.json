@@ -7,6 +7,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "description"
+    },
+    "asdasd": {
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "asdasd"
     }
   }
 }
