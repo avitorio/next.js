@@ -1,6 +1,6 @@
 {
-  "commit": "77fa8d390681dbe4d9612a0682095b47a594ebe2",
-  "generated": "2024-10-08T22:00:37.509Z",
+  "commit": "8a1b28ba634c7fc87c552b4cef0f9f912686a294",
+  "generated": "2024-10-08T22:06:28.202Z",
   "metadata": [
     {
       "__outstatic": {
@@ -180,6 +180,24 @@
       "slug": "it-s-a-new-doc",
       "status": "draft",
       "title": "It's a new doc",
+      "trip": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "8a1b28ba634c7fc87c552b4cef0f9f912686a294",
+        "hash": "635713298",
+        "path": "docs/asdasd.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "description": "",
+      "publishedAt": "2024-10-08T21:48:01.723Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "title": "",
       "trip": ""
     }
   ]
