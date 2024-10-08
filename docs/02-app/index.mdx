@@ -1,6 +1,11 @@
 ---
-title: App Router
-description: Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.
+title: 'App Router'
+description: 'Use the new App Router with Next.js'' and React''s latest features, including Layouts, Server Components, Suspense, and more.'
+publishedAt: '2024-10-08T15:31:13.156Z'
+status: 'draft'
+author:
+  name: 'Andre'
+slug: 'index'
 ---
 
 The Next.js App Router introduces a new model for building applications using React's latest features such as [Server Components](/docs/app/building-your-application/rendering/server-components), [Streaming with Suspense](/docs/app/building-your-application/routing/loading-ui-and-streaming#streaming-with-suspense), and [Server Actions](/docs/app/building-your-application/data-fetching/server-actions-and-mutations).
@@ -11,7 +16,7 @@ Get started with the App Router by [creating your first page](/docs/app/building
 
 ### How can I access the request object in a layout?
 
-You intentionally cannot access the raw request object. However, you can access [`headers`](/docs/app/api-reference/functions/headers) and [`cookies`](/docs/app/api-reference/functions/cookies) through server-only functions. You can also [set cookies](#how-can-i-set-cookies).
+You intentionally cannot access the raw request object. However, you can access `headers` and `cookies` through server-only functions. You can also [set cookies](#how-can-i-set-cookies).
 
 [Layouts](/docs/app/building-your-application/routing/layouts-and-templates#layouts) do not rerender. They can be cached and reused to avoid unnecessary computation when navigating between pages. By restricting layouts from accessing the raw request, Next.js can prevent the execution of potentially slow or expensive user code within the layout, which could negatively impact performance.
 
@@ -21,15 +26,15 @@ Depending on the UI pattern you're building, [Parallel Routes](/docs/app/buildin
 
 ### How can I access the URL on a page?
 
-By default, pages are Server Components. You can access the route segments through the [`params`](/docs/app/api-reference/file-conventions/page#params-optional) prop and the URL search params through the [`searchParams`](/docs/app/api-reference/file-conventions/page#searchparams-optional) prop for a given page.
+By default, pages are Server Components. You can access the route segments through the `params` prop and the URL search params through the `searchParams` prop for a given page.
 
-If you are using Client Components, you can use [`usePathname`](/docs/app/api-reference/functions/use-pathname), [`useSelectedLayoutSegment`](/docs/app/api-reference/functions/use-selected-layout-segment), and [`useSelectedLayoutSegments`](/docs/app/api-reference/functions/use-selected-layout-segments) for more complex routes.
+If you are using Client Components, you can use `usePathname`, `useSelectedLayoutSegment`, and `useSelectedLayoutSegments` for more complex routes.
 
 Further, depending on the UI pattern you're building, [Parallel Routes](/docs/app/building-your-application/routing/parallel-routes) allow you to render multiple pages in the same layout, and pages have access to the route segments as well as the URL search params.
 
 ### How can I redirect from a Server Component?
 
-You can use [`redirect`](/docs/app/api-reference/functions/redirect) to redirect from a page to a relative or absolute URL. [`redirect`](/docs/app/api-reference/functions/redirect) is a temporary (307) redirect, while [`permanentRedirect`](/docs/app/api-reference/functions/permanentRedirect) is a permanent (308) redirect. When these functions are used while streaming UI, they will insert a meta tag to emit the redirect on the client side.
+You can use `redirect` to redirect from a page to a relative or absolute URL. `redirect` is a temporary (307) redirect, while `permanentRedirect` is a permanent (308) redirect. When these functions are used while streaming UI, they will insert a meta tag to emit the redirect on the client side.
 
 ### How can I handle authentication with the App Router?
 
@@ -47,7 +52,7 @@ Here are some common authentication solutions that support the App Router:
 
 ### How can I set cookies?
 
-You can set cookies in [Server Actions](/docs/app/building-your-application/data-fetching/server-actions-and-mutations#cookies) or [Route Handlers](/docs/app/building-your-application/routing/route-handlers) using the [`cookies`](/docs/app/api-reference/functions/cookies) function.
+You can set cookies in [Server Actions](/docs/app/building-your-application/data-fetching/server-actions-and-mutations#cookies) or [Route Handlers](/docs/app/building-your-application/routing/route-handlers) using the `cookies` function.
 
 Since HTTP does not allow setting cookies after streaming starts, you cannot set cookies from a page or layout directly. You can also set cookies from [Middleware](/docs/app/building-your-application/routing/middleware#using-cookies).
 

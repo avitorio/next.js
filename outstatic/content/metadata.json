@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Tue, 08 Oct 2024 15:45:48 GMT",
+  "commit": "8fb220c71f7f66832705f4850cac0ea88f9a7c46",
+  "generated": "2024-10-08T15:49:42.931Z",
   "metadata": [
     {
       "__outstatic": {
@@ -102,6 +102,22 @@
       "slug": "outstatic-how-to",
       "status": "draft",
       "title": "Outstatic how to"
+    },
+    {
+      "__outstatic": {
+        "commit": "8fb220c71f7f66832705f4850cac0ea88f9a7c46",
+        "hash": "2568679871",
+        "path": "docs/02-app/index.mdx"
+      },
+      "author": {
+        "name": "Andre"
+      },
+      "collection": "app-router",
+      "description": "Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.",
+      "publishedAt": "2024-10-08T15:31:13.156Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "App Router"
     }
   ]
 }
