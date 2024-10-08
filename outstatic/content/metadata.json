@@ -1,6 +1,6 @@
 {
-  "commit": "8a1b28ba634c7fc87c552b4cef0f9f912686a294",
-  "generated": "2024-10-08T22:06:28.202Z",
+  "commit": "8f9eef707bffc2273131553a484bdd704371b085",
+  "generated": "2024-10-08T22:07:04.066Z",
   "metadata": [
     {
       "__outstatic": {
@@ -184,13 +184,13 @@
     },
     {
       "__outstatic": {
-        "commit": "8a1b28ba634c7fc87c552b4cef0f9f912686a294",
-        "hash": "635713298",
+        "commit": "8f9eef707bffc2273131553a484bdd704371b085",
+        "hash": "1896223325",
         "path": "docs/asdasd.mdx"
       },
       "author": {
         "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+        "picture": ""
       },
       "collection": "docs",
       "description": "",
