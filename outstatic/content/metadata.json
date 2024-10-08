@@ -1,6 +1,6 @@
 {
-  "commit": "98e572a9e614336e208115c5b2f4a103bc0e535c",
-  "generated": "2024-10-08T20:58:42.121Z",
+  "commit": "3200182461686b692f1d396530f0ebb1c3e27b0a",
+  "generated": "2024-10-08T21:13:46.426Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,8 +162,8 @@
     },
     {
       "__outstatic": {
-        "commit": "98e572a9e614336e208115c5b2f4a103bc0e535c",
-        "hash": "3391192672",
+        "commit": "3200182461686b692f1d396530f0ebb1c3e27b0a",
+        "hash": "1304061420",
         "path": "docs/index.mdx"
       },
       "author": {
@@ -172,7 +172,7 @@
       },
       "collection": "docs",
       "description": "Welcome to the Next.js Documentation.",
-      "poster": "/images/close-Y3MT.webp",
+      "poster": "https://picsum.photos/500",
       "publishedAt": "2024-10-08T15:25:23.470Z",
       "slug": "index",
       "status": "draft",
