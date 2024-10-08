@@ -18,5 +18,10 @@
     "name": "new-docs",
     "path": "docs/03-pages",
     "children": []
+  },
+  {
+    "name": "building-your-application",
+    "path": "docs/03-pages/01-building-your-application",
+    "children": []
   }
 ]
