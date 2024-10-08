@@ -1,5 +1,12 @@
 {
   "title": "getting-started",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "description": {
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "description"
+    }
+  }
 }
