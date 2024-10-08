@@ -1,5 +1,12 @@
 {
   "title": "docs",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "poster": {
+      "required": false,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Poster"
+    }
+  }
 }
