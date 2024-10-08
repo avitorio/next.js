@@ -1,6 +1,6 @@
 {
-  "commit": "b839092807dd184a21b0a926e82ad94bd284e4ca",
-  "generated": "2024-10-08T14:55:18.271Z",
+  "commit": "8d627769661c65749a72cec9cf47881315eb6c1c",
+  "generated": "2024-10-08T15:37:33.853Z",
   "metadata": [
     {
       "__outstatic": {
@@ -56,22 +56,6 @@
     },
     {
       "__outstatic": {
-        "commit": "8c3047aa5095e7d4e917016ec6c6192a42cf0180",
-        "hash": "1937243815",
-        "path": "docs/01-getting-started/install-outstatic.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "getting-started",
-      "publishedAt": "2024-10-08T14:21:30.613Z",
-      "slug": "install-outstatic",
-      "status": "draft",
-      "title": "Install Outstatic"
-    },
-    {
-      "__outstatic": {
         "commit": "b839092807dd184a21b0a926e82ad94bd284e4ca",
         "hash": "2697877038",
         "path": "docs/01-getting-started/outstatic-how-to.mdx"
@@ -85,6 +69,23 @@
       "slug": "outstatic-how-to",
       "status": "draft",
       "title": "Outstatic how to"
+    },
+    {
+      "__outstatic": {
+        "commit": "8d627769661c65749a72cec9cf47881315eb6c1c",
+        "hash": "3766611226",
+        "path": "docs/01-getting-started/install-outstatic.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "getting-started",
+      "description": "",
+      "publishedAt": "2024-10-08T14:21:30.613Z",
+      "slug": "install-outstatic",
+      "status": "draft",
+      "title": "Install Outstatic"
     }
   ]
 }
