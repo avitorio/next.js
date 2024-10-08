@@ -1,6 +1,6 @@
 {
-  "commit": "acaf18e2f736528499f062a8d0b5dc7140add1ff",
-  "generated": "2024-10-08T21:56:47.660Z",
+  "commit": "77fa8d390681dbe4d9612a0682095b47a594ebe2",
+  "generated": "2024-10-08T22:00:37.509Z",
   "metadata": [
     {
       "__outstatic": {
@@ -165,13 +165,13 @@
     },
     {
       "__outstatic": {
-        "commit": "acaf18e2f736528499f062a8d0b5dc7140add1ff",
-        "hash": "2369345432",
+        "commit": "77fa8d390681dbe4d9612a0682095b47a594ebe2",
+        "hash": "2758646637",
         "path": "docs/it-s-a-new-doc.mdx"
       },
       "author": {
         "name": "Monon",
-        "picture": "/api/outstatic/media//avitorio/next.js/feat/test-1/public/images/close-Y3MT.webp"
+        "picture": "/images/close-Y3MT.webp"
       },
       "collection": "docs",
       "description": "",
