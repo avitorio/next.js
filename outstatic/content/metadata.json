@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Tue, 08 Oct 2024 14:33:53 GMT",
+  "commit": "8c3047aa5095e7d4e917016ec6c6192a42cf0180",
+  "generated": "2024-10-08T14:39:44.696Z",
   "metadata": [
     {
       "__outstatic": {
@@ -53,6 +53,22 @@
       },
       "slug": "01-installationx",
       "title": "Installation"
+    },
+    {
+      "__outstatic": {
+        "commit": "8c3047aa5095e7d4e917016ec6c6192a42cf0180",
+        "hash": "1937243815",
+        "path": "docs/01-getting-started/install-outstatic.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "getting-started",
+      "publishedAt": "2024-10-08T14:21:30.613Z",
+      "slug": "install-outstatic",
+      "status": "draft",
+      "title": "Install Outstatic"
     }
   ]
 }
