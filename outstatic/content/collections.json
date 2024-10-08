@@ -1,0 +1,17 @@
+[
+  {
+    "name": "a",
+    "path": "outstatic/content/a",
+    "children": []
+  },
+  {
+    "name": "app-router",
+    "path": "outstatic/content/app-router",
+    "children": []
+  },
+  {
+    "name": "getting-started",
+    "path": "outstatic/content/getting-started",
+    "children": []
+  }
+]
