@@ -1,6 +1,6 @@
 {
-  "commit": "fc6c4dee488501896115e673ed3a8011ccefbd2a",
-  "generated": "2024-10-08T17:48:32.536Z",
+  "commit": "448c58a09400f66d22d1d541bf6a485974bce08d",
+  "generated": "2024-10-08T19:55:05.286Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,7 +162,7 @@
     },
     {
       "__outstatic": {
-        "commit": "fc6c4dee488501896115e673ed3a8011ccefbd2a",
+        "commit": "448c58a09400f66d22d1d541bf6a485974bce08d",
         "hash": "1698746033",
         "path": "docs/index.mdx"
       },
