@@ -19,6 +19,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Trip"
+    },
+    "image": {
+      "required": true,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Image"
     }
   }
 }
