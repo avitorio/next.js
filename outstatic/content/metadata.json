@@ -1,6 +1,6 @@
 {
-  "commit": "d076d27f3ae7c1b0c4cf79e69d3c6d6496ea4c4b",
-  "generated": "2024-10-08T23:28:36.121Z",
+  "commit": "9849599fc8866ad7874722a4e473f4d2c1ad4e9d",
+  "generated": "2024-10-08T23:29:18.615Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,9 +202,9 @@
     },
     {
       "__outstatic": {
-        "commit": "d076d27f3ae7c1b0c4cf79e69d3c6d6496ea4c4b",
-        "hash": "4150855252",
-        "path": "docs/asdasd.mdx"
+        "commit": "9849599fc8866ad7874722a4e473f4d2c1ad4e9d",
+        "hash": "570685727",
+        "path": "docs/asdasda.mdx"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -215,7 +215,7 @@
       "image": "",
       "poster": "",
       "publishedAt": "2024-10-08T22:05:01.607Z",
-      "slug": "asdasd",
+      "slug": "asdasda",
       "status": "draft",
       "title": "",
       "trip": ""
