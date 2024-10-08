@@ -1,6 +1,6 @@
 {
   "commit": "",
-  "generated": "Tue, 08 Oct 2024 13:21:45 GMT",
+  "generated": "Tue, 08 Oct 2024 13:51:05 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,17 @@
       "slug": "something-a-new",
       "status": "draft",
       "title": "Something a new"
+    },
+    {
+      "__outstatic": {
+        "commit": "c64d435eb762d66f3cf7438c8e5fd89aa3e35281",
+        "hash": "673410880",
+        "path": "docs/03-pages/index.mdx"
+      },
+      "collection": "03-pages",
+      "description": "Before Next.js 13, the Pages Router was the main way to create routes in Next.js with an intuitive file-system router.",
+      "slug": "indexx",
+      "title": "Pages Router"
     }
   ]
 }
