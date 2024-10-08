@@ -1,6 +1,6 @@
 {
-  "commit": "cd28c793e5ac96cb20b3a69bd88436695e2223b4",
-  "generated": "2024-10-08T21:33:25.389Z",
+  "commit": "3388c0f9519bdbd16f2d2e7c6c6d6ef968a7f58a",
+  "generated": "2024-10-08T21:35:52.126Z",
   "metadata": [
     {
       "__outstatic": {
@@ -165,13 +165,13 @@
     },
     {
       "__outstatic": {
-        "commit": "cd28c793e5ac96cb20b3a69bd88436695e2223b4",
-        "hash": "2850354134",
+        "commit": "3388c0f9519bdbd16f2d2e7c6c6d6ef968a7f58a",
+        "hash": "2694097481",
         "path": "docs/it-s-a-new-doc.mdx"
       },
       "author": {
         "name": "Monon",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+        "picture": ""
       },
       "collection": "docs",
       "description": "",
