@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Tue, 08 Oct 2024 14:03:28 GMT",
+  "commit": "6847ed7c16a38463a1b41146af052f3cd92b4a80",
+  "generated": "2024-10-08T14:29:29.976Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,6 +40,22 @@
       "slug": "something-a-new",
       "status": "draft",
       "title": "Something a new"
+    },
+    {
+      "__outstatic": {
+        "commit": "6847ed7c16a38463a1b41146af052f3cd92b4a80",
+        "hash": "2606757292",
+        "path": "outstatic/content/app-router/this-is-a-new-thing.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "app-router",
+      "publishedAt": "2024-10-08T14:11:20.951Z",
+      "slug": "this-is-a-new-thing",
+      "status": "draft",
+      "title": "This is a new thing"
     }
   ]
 }
