@@ -13,6 +13,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "asdasd"
+    },
+    "year": {
+      "required": true,
+      "fieldType": "Date",
+      "dataType": "date",
+      "title": "Year"
     }
   }
 }
