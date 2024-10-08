@@ -1,6 +1,6 @@
 {
-  "commit": "2a8085cd4a23316639e3abf79d480b5646dfbee5",
-  "generated": "2024-10-08T21:26:25.249Z",
+  "commit": "cd28c793e5ac96cb20b3a69bd88436695e2223b4",
+  "generated": "2024-10-08T21:33:25.389Z",
   "metadata": [
     {
       "__outstatic": {
@@ -107,22 +107,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d92919abb3b055459618c69680acca3f1041888b",
-        "hash": "1130331343",
-        "path": "docs/it-s-a-new-doc.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "publishedAt": "2024-10-08T15:51:35.646Z",
-      "slug": "it-s-a-new-doc",
-      "status": "draft",
-      "title": "It's a new doc"
-    },
-    {
-      "__outstatic": {
         "commit": "fae04cfca8bcb9d6f8c47cd94334e70b6f55212d",
         "hash": "1356673683",
         "path": "docs/02-app/index.mdx"
@@ -178,6 +162,24 @@
       "status": "draft",
       "title": "Introduction",
       "trip": "Miami"
+    },
+    {
+      "__outstatic": {
+        "commit": "cd28c793e5ac96cb20b3a69bd88436695e2223b4",
+        "hash": "2850354134",
+        "path": "docs/it-s-a-new-doc.mdx"
+      },
+      "author": {
+        "name": "Monon",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "description": "",
+      "publishedAt": "2024-10-08T15:51:35.646Z",
+      "slug": "it-s-a-new-doc",
+      "status": "draft",
+      "title": "It's a new doc",
+      "trip": ""
     }
   ]
 }
