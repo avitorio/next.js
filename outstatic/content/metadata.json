@@ -1,6 +1,6 @@
 {
-  "commit": "ba4303cbbd2bd2eef5c945381dfa80d4a3ab15ce",
-  "generated": "2024-10-08T20:10:53.362Z",
+  "commit": "d98cf56472558909a93f884999d09a65dbbf1c66",
+  "generated": "2024-10-08T20:11:34.607Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,8 +162,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ba4303cbbd2bd2eef5c945381dfa80d4a3ab15ce",
-        "hash": "4098199317",
+        "commit": "d98cf56472558909a93f884999d09a65dbbf1c66",
+        "hash": "2140579179",
         "path": "docs/index.mdx"
       },
       "author": {
@@ -175,7 +175,8 @@
       "publishedAt": "2024-10-08T15:25:23.470Z",
       "slug": "index",
       "status": "draft",
-      "title": "Introduction"
+      "title": "Introduction",
+      "trip": "Miami"
     }
   ]
 }
