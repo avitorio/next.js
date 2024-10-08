@@ -1,6 +1,6 @@
 {
-  "commit": "fae04cfca8bcb9d6f8c47cd94334e70b6f55212d",
-  "generated": "2024-10-08T16:13:12.022Z",
+  "commit": "06e80d1fd7f30cf0b9fbfbf590b35075d49fff45",
+  "generated": "2024-10-08T16:19:53.772Z",
   "metadata": [
     {
       "__outstatic": {
@@ -153,6 +153,27 @@
       "slug": "index",
       "status": "draft",
       "title": "App Router"
+    },
+    {
+      "__outstatic": {
+        "commit": "06e80d1fd7f30cf0b9fbfbf590b35075d49fff45",
+        "hash": "3501640851",
+        "path": "docs/01-getting-started/01-installation.mdx"
+      },
+      "author": {
+        "name": ""
+      },
+      "collection": "getting-started",
+      "description": "Create a new Next.js application with `create-next-app`. Set up TypeScript, styles, and configure your `next.config.js` file.",
+      "publishedAt": "2024-10-08T16:01:39.112Z",
+      "related": {
+        "description": "Learn about the files and folders in your Next.js project.",
+        "links": "getting-started/project-structure",
+        "title": "Next Steps"
+      },
+      "slug": "01-installation",
+      "status": "draft",
+      "title": "Installation"
     }
   ]
 }
