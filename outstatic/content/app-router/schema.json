@@ -1,5 +1,12 @@
 {
   "title": "app-router",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "painting": {
+      "required": false,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Painting"
+    }
+  }
 }
