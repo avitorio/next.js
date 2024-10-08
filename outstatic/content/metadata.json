@@ -1,6 +1,6 @@
 {
-  "commit": "28f7bfbf0a334b146ae92de502f4b12a4b291008",
-  "generated": "2024-10-08T17:34:23.012Z",
+  "commit": "2504c53f6b5758e64b8f07f8112131553fd8c998",
+  "generated": "2024-10-08T17:46:09.482Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,22 +19,6 @@
       },
       "slug": "01-installationx",
       "title": "Installation"
-    },
-    {
-      "__outstatic": {
-        "commit": "0ba99e1afae9125532e29c2eb23e009943fdd161",
-        "hash": "3070669677",
-        "path": "docs/index.mdx"
-      },
-      "author": {
-        "name": ""
-      },
-      "collection": "docs",
-      "description": "Welcome to the Next.js Documentation.",
-      "publishedAt": "2024-10-08T15:25:23.470Z",
-      "slug": "index",
-      "status": "draft",
-      "title": "Introduction"
     },
     {
       "__outstatic": {
@@ -175,6 +159,22 @@
       "slug": "01-installation",
       "status": "draft",
       "title": "Installation"
+    },
+    {
+      "__outstatic": {
+        "commit": "2504c53f6b5758e64b8f07f8112131553fd8c998",
+        "hash": "3070669677",
+        "path": "docs/index.mdx"
+      },
+      "author": {
+        "name": ""
+      },
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "publishedAt": "2024-10-08T15:25:23.470Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "Introduction"
     }
   ]
 }
