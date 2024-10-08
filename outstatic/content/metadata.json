@@ -1,6 +1,6 @@
 {
-  "commit": "f8a609386a9b73046288368e02687d6f2a254749",
-  "generated": "2024-10-08T22:11:55.005Z",
+  "commit": "5c35e072329c95b14acc4270ceb18f6be4a98769",
+  "generated": "2024-10-08T22:17:10.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,7 +202,7 @@
     },
     {
       "__outstatic": {
-        "commit": "f8a609386a9b73046288368e02687d6f2a254749",
+        "commit": "5c35e072329c95b14acc4270ceb18f6be4a98769",
         "hash": "2438563141",
         "path": "docs/zzzz.mdx"
       },
