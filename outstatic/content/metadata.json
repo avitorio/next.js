@@ -1,6 +1,6 @@
 {
-  "commit": "8f9eef707bffc2273131553a484bdd704371b085",
-  "generated": "2024-10-08T22:07:04.066Z",
+  "commit": "f8a609386a9b73046288368e02687d6f2a254749",
+  "generated": "2024-10-08T22:11:55.005Z",
   "metadata": [
     {
       "__outstatic": {
@@ -196,6 +196,24 @@
       "description": "",
       "publishedAt": "2024-10-08T21:48:01.723Z",
       "slug": "asdasd",
+      "status": "draft",
+      "title": "",
+      "trip": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "f8a609386a9b73046288368e02687d6f2a254749",
+        "hash": "2438563141",
+        "path": "docs/zzzz.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "docs",
+      "description": "",
+      "publishedAt": "2024-10-08T21:53:44.979Z",
+      "slug": "zzzz",
       "status": "draft",
       "title": "",
       "trip": ""
