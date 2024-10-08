@@ -1,7 +1,30 @@
 {
   "commit": "",
-  "generated": "Tue, 08 Oct 2024 14:32:57 GMT",
+  "generated": "Tue, 08 Oct 2024 14:33:53 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "1b0c06c68950723be15127db2b824da2114ff482",
+        "hash": "2772659353",
+        "path": "docs/01-getting-started/02-project-structure.mdx"
+      },
+      "collection": "getting-started",
+      "description": "A list of folders and files conventions in a Next.js project",
+      "nav_title": "Project Structure",
+      "slug": "02-project-structurex",
+      "title": "Next.js Project Structure"
+    },
+    {
+      "__outstatic": {
+        "commit": "df84fb94cf1350dd8b0ee4edcd44cdcd1ceb300f",
+        "hash": "3962598013",
+        "path": "docs/01-getting-started/index.mdx"
+      },
+      "collection": "getting-started",
+      "description": "Learn how to create full-stack web applications with Next.js.",
+      "slug": "indexx",
+      "title": "Getting Started"
+    },
     {
       "__outstatic": {
         "commit": "bb8f7a10a631a04628c9ac36d102ba787f7b78e9",
@@ -12,6 +35,24 @@
       "description": "Welcome to the Next.js Documentation.",
       "slug": "indexx",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "130bd4e5b97f27ff64185b47c333cd04663b3cde",
+        "hash": "3903973328",
+        "path": "docs/01-getting-started/01-installation.mdx"
+      },
+      "collection": "getting-started",
+      "description": "Create a new Next.js application with `create-next-app`. Set up TypeScript, styles, and configure your `next.config.js` file.",
+      "related": {
+        "description": "Learn about the files and folders in your Next.js project.",
+        "links": [
+          "getting-started/project-structure"
+        ],
+        "title": "Next Steps"
+      },
+      "slug": "01-installationx",
+      "title": "Installation"
     }
   ]
 }
