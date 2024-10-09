@@ -1,226 +1,56 @@
 {
-  "commit": "15ed546070998f101dacef53771c92d414f0aa65",
-  "generated": "2024-10-09T01:06:59.278Z",
+  "commit": "",
+  "generated": "Wed, 09 Oct 2024 01:07:40 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "130bd4e5b97f27ff64185b47c333cd04663b3cde",
-        "hash": "3903973328",
-        "path": "docs/01-getting-started/01-installation.mdx"
+        "commit": "96a6258d03ddf1f8584b6e0edefd75c0eb4c1b7c",
+        "hash": "3529099630",
+        "path": "docs/dfsf.mdx"
       },
-      "collection": "getting-started",
-      "description": "Create a new Next.js application with `create-next-app`. Set up TypeScript, styles, and configure your `next.config.js` file.",
-      "related": {
-        "description": "Learn about the files and folders in your Next.js project.",
-        "links": [
-          "getting-started/project-structure"
-        ],
-        "title": "Next Steps"
-      },
-      "slug": "01-installationx",
-      "title": "Installation"
-    },
-    {
-      "__outstatic": {
-        "commit": "1d30222f08b91cffe0843cec22da90d383487bd7",
-        "hash": "3766611226",
-        "path": "docs/01-getting-started/install-outstatic.mdx"
-      },
+      "age": "34",
+      "asddsda": "asdasd",
       "author": {
         "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "getting-started",
-      "description": "",
-      "publishedAt": "2024-10-08T14:21:30.613Z",
-      "slug": "install-outstatic",
-      "status": "draft",
-      "title": "Install Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "1b0c06c68950723be15127db2b824da2114ff482",
-        "hash": "2772659353",
-        "path": "docs/01-getting-started/02-project-structure.mdx"
-      },
-      "collection": "getting-started",
-      "description": "A list of folders and files conventions in a Next.js project",
-      "nav_title": "Project Structure",
-      "slug": "02-project-structurex",
-      "title": "Next.js Project Structure"
-    },
-    {
-      "__outstatic": {
-        "commit": "a2cd16a4a216dbfb6314e6fc40d392cb2176ee9b",
-        "hash": "668358264",
-        "path": "docs/02-app/index.mdx"
-      },
-      "collection": "app-router",
-      "description": "Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.",
-      "slug": "indexx",
-      "title": "App Router"
-    },
-    {
-      "__outstatic": {
-        "commit": "df84fb94cf1350dd8b0ee4edcd44cdcd1ceb300f",
-        "hash": "3962598013",
-        "path": "docs/01-getting-started/index.mdx"
-      },
-      "collection": "getting-started",
-      "description": "Learn how to create full-stack web applications with Next.js.",
-      "slug": "indexx",
-      "title": "Getting Started"
-    },
-    {
-      "__outstatic": {
-        "commit": "94bad8474ac8bc6a69714fbc728e598fc53fd910",
-        "hash": "2697877038",
-        "path": "docs/01-getting-started/outstatic-how-to.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "getting-started",
-      "publishedAt": "2024-10-08T14:37:04.745Z",
-      "slug": "outstatic-how-to",
-      "status": "draft",
-      "title": "Outstatic how to"
-    },
-    {
-      "__outstatic": {
-        "commit": "6bf89e7ff31865954f283c70eada4a3969a77550",
-        "hash": "3440086451",
-        "path": "docs/01-getting-started/project-structure.mdx"
-      },
-      "author": {
-        "name": "Andre",
-        "picture": "https://picsum.photos/200/300"
-      },
-      "collection": "getting-started",
-      "description": "A list of folders and files conventions in a Next.js project",
-      "nav_title": "Project Structure",
-      "publishedAt": "2024-10-08T15:39:51.668Z",
-      "slug": "project-structure",
-      "status": "draft",
-      "title": "Next.js Project Structure"
-    },
-    {
-      "__outstatic": {
-        "commit": "fae04cfca8bcb9d6f8c47cd94334e70b6f55212d",
-        "hash": "1356673683",
-        "path": "docs/02-app/index.mdx"
-      },
-      "author": {
-        "name": "Andre Vo",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
-      "collection": "app-router",
-      "description": "Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.",
-      "publishedAt": "2024-10-08T15:31:13.156Z",
-      "slug": "index",
-      "status": "draft",
-      "title": "App Router"
-    },
-    {
-      "__outstatic": {
-        "commit": "28f7bfbf0a334b146ae92de502f4b12a4b291008",
-        "hash": "4059221094",
-        "path": "docs/01-getting-started/01-installation.mdx"
-      },
-      "author": {
-        "name": "Andre",
-        "picture": "/images/close-Y3MT.webp"
-      },
-      "collection": "getting-started",
-      "description": "Create a new Next.js application with `create-next-app`. Set up TypeScript, styles, and configure your `next.config.js` file.",
-      "publishedAt": "2024-10-08T16:01:39.112Z",
-      "related": {
-        "description": "Learn about the files and folders in your Next.js project.",
-        "links": "getting-started/project-structure",
-        "title": "Next Steps"
-      },
-      "slug": "01-installation",
-      "status": "draft",
-      "title": "Installation"
-    },
-    {
-      "__outstatic": {
-        "commit": "2a8085cd4a23316639e3abf79d480b5646dfbee5",
-        "hash": "1845194602",
-        "path": "docs/index.mdx"
-      },
-      "author": {
-        "name": "asdd",
-        "picture": "/images/tr-logo-main-k5OD.webp"
-      },
-      "collection": "docs",
-      "description": "Welcome to the Next.js Documentation.",
-      "poster": "/images/close-Y3MT.webp",
-      "publishedAt": "2024-10-08T15:25:23.470Z",
-      "slug": "index",
-      "status": "draft",
-      "title": "Introduction",
-      "trip": "Miami"
-    },
-    {
-      "__outstatic": {
-        "commit": "77fa8d390681dbe4d9612a0682095b47a594ebe2",
-        "hash": "2758646637",
-        "path": "docs/it-s-a-new-doc.mdx"
-      },
-      "author": {
-        "name": "Monon",
-        "picture": "/images/close-Y3MT.webp"
-      },
       "collection": "docs",
       "description": "",
-      "poster": "/images/tr-logo-main-k5OD.webp",
-      "publishedAt": "2024-10-08T15:51:35.646Z",
-      "slug": "it-s-a-new-doc",
+      "image": "http://picsum.photos/200",
+      "publishedAt": "2024-10-09T00:42:27.894Z",
+      "slug": "dfsf",
       "status": "draft",
-      "title": "It's a new doc",
-      "trip": ""
+      "tags": {
+        "0": "[object Object]"
+      },
+      "title": "",
+      "trip": "",
+      "year": "23"
     },
     {
       "__outstatic": {
-        "commit": "5c35e072329c95b14acc4270ceb18f6be4a98769",
-        "hash": "2438563141",
-        "path": "docs/zzzz.mdx"
+        "commit": "a85c14f7ded94b0667d96101244ee4a4eae37622",
+        "hash": "3227970717",
+        "path": "docs/.mdx"
       },
+      "asddsda": "",
       "author": {
         "name": "Andre Vitorio",
         "picture": ""
       },
       "collection": "docs",
       "description": "",
-      "publishedAt": "2024-10-08T21:53:44.979Z",
-      "slug": "zzzz",
+      "image": "",
+      "poster": "",
+      "publishedAt": "2024-10-08T22:05:01.607Z",
+      "slug": "",
       "status": "draft",
       "title": "",
       "trip": ""
     },
     {
       "__outstatic": {
-        "commit": "c92bb096e3f23e2d7991f44d8e5eb17a09d8d105",
-        "hash": "1244748951",
-        "path": "docs/02-app/asdasd.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "app-router",
-      "painting": "https://picsum.photos/600",
-      "publishedAt": "2024-10-08T23:39:58.147Z",
-      "slug": "asdasd",
-      "status": "draft",
-      "title": "",
-      "year": "2024-10-15T03:00:00.000Z"
-    },
-    {
-      "__outstatic": {
-        "commit": "0679cf5c0658dc39b23244183d39e617c3ef885f",
+        "commit": "43e45fd4806bbfedc449c781c62e3eccbb7e51a4",
         "hash": "818070436",
         "path": "docs/asdasd.mdx"
       },
@@ -243,28 +73,178 @@
     },
     {
       "__outstatic": {
-        "commit": "15ed546070998f101dacef53771c92d414f0aa65",
-        "hash": "3529099630",
-        "path": "docs/dfsf.mdx"
+        "commit": "38993a483a61004c7378bcd0088909004da45515",
+        "hash": "4059221094",
+        "path": "docs/01-getting-started/01-installation.mdx"
       },
-      "age": "34",
-      "asddsda": "asdasd",
+      "author": {
+        "name": "Andre",
+        "picture": "/images/close-Y3MT.webp"
+      },
+      "collection": "getting-started",
+      "description": "Create a new Next.js application with `create-next-app`. Set up TypeScript, styles, and configure your `next.config.js` file.",
+      "publishedAt": "2024-10-08T16:01:39.112Z",
+      "related": {
+        "description": "Learn about the files and folders in your Next.js project.",
+        "links": "getting-started/project-structure",
+        "title": "Next Steps"
+      },
+      "slug": "01-installation",
+      "status": "draft",
+      "title": "Installation"
+    },
+    {
+      "__outstatic": {
+        "commit": "72d7e9c5b34c47411f6be3eca719f61543510c79",
+        "hash": "1845194602",
+        "path": "docs/index.mdx"
+      },
+      "author": {
+        "name": "asdd",
+        "picture": "/images/tr-logo-main-k5OD.webp"
+      },
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "poster": "/images/close-Y3MT.webp",
+      "publishedAt": "2024-10-08T15:25:23.470Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "Introduction",
+      "trip": "Miami"
+    },
+    {
+      "__outstatic": {
+        "commit": "c0471c9c981f385827da2610002122023b60c400",
+        "hash": "2758646637",
+        "path": "docs/it-s-a-new-doc.mdx"
+      },
+      "author": {
+        "name": "Monon",
+        "picture": "/images/close-Y3MT.webp"
+      },
+      "collection": "docs",
+      "description": "",
+      "poster": "/images/tr-logo-main-k5OD.webp",
+      "publishedAt": "2024-10-08T15:51:35.646Z",
+      "slug": "it-s-a-new-doc",
+      "status": "draft",
+      "title": "It's a new doc",
+      "trip": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "ef87d1baca21a0c11c8b8e5cae6f16a113904917",
+        "hash": "2438563141",
+        "path": "docs/zzzz.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "docs",
+      "description": "",
+      "publishedAt": "2024-10-08T21:53:44.979Z",
+      "slug": "zzzz",
+      "status": "draft",
+      "title": "",
+      "trip": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "df84fb94cf1350dd8b0ee4edcd44cdcd1ceb300f",
+        "hash": "3962598013",
+        "path": "docs/01-getting-started/index.mdx"
+      },
+      "collection": "getting-started",
+      "description": "Learn how to create full-stack web applications with Next.js.",
+      "slug": "indexx",
+      "title": "Getting Started"
+    },
+    {
+      "__outstatic": {
+        "commit": "a1ed7da254520d28efae7774bcfb9a6f847f81c1",
+        "hash": "1356673683",
+        "path": "docs/02-app/index.mdx"
+      },
+      "author": {
+        "name": "Andre Vo",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "app-router",
+      "description": "Use the new App Router with Next.js' and React's latest features, including Layouts, Server Components, Suspense, and more.",
+      "publishedAt": "2024-10-08T15:31:13.156Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "App Router"
+    },
+    {
+      "__outstatic": {
+        "commit": "7c18532f773a26e9d505241457414064a5b31be6",
+        "hash": "3440086451",
+        "path": "docs/01-getting-started/project-structure.mdx"
+      },
+      "author": {
+        "name": "Andre",
+        "picture": "https://picsum.photos/200/300"
+      },
+      "collection": "getting-started",
+      "description": "A list of folders and files conventions in a Next.js project",
+      "nav_title": "Project Structure",
+      "publishedAt": "2024-10-08T15:39:51.668Z",
+      "slug": "project-structure",
+      "status": "draft",
+      "title": "Next.js Project Structure"
+    },
+    {
+      "__outstatic": {
+        "commit": "4b1a3aef137142dd583d1e4a6110e8ac2c1c9cbf",
+        "hash": "1244748951",
+        "path": "docs/02-app/asdasd.mdx"
+      },
       "author": {
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
-      "collection": "docs",
-      "description": "",
-      "image": "http://picsum.photos/200",
-      "publishedAt": "2024-10-09T00:42:27.894Z",
-      "slug": "dfsf",
+      "collection": "app-router",
+      "painting": "https://picsum.photos/600",
+      "publishedAt": "2024-10-08T23:39:58.147Z",
+      "slug": "asdasd",
       "status": "draft",
-      "tags": {
-        "0": "[object Object]"
-      },
       "title": "",
-      "trip": "",
-      "year": "23"
+      "year": "2024-10-15T03:00:00.000Z"
+    },
+    {
+      "__outstatic": {
+        "commit": "1d30222f08b91cffe0843cec22da90d383487bd7",
+        "hash": "3766611226",
+        "path": "docs/01-getting-started/install-outstatic.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "getting-started",
+      "description": "",
+      "publishedAt": "2024-10-08T14:21:30.613Z",
+      "slug": "install-outstatic",
+      "status": "draft",
+      "title": "Install Outstatic"
+    },
+    {
+      "__outstatic": {
+        "commit": "94bad8474ac8bc6a69714fbc728e598fc53fd910",
+        "hash": "2697877038",
+        "path": "docs/01-getting-started/outstatic-how-to.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "getting-started",
+      "publishedAt": "2024-10-08T14:37:04.745Z",
+      "slug": "outstatic-how-to",
+      "status": "draft",
+      "title": "Outstatic how to"
     }
   ]
 }
