@@ -43,6 +43,13 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "Year"
+    },
+    "tags": {
+      "required": true,
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Tags",
+      "values": []
     }
   }
 }
