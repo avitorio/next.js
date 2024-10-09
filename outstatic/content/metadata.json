@@ -1,6 +1,6 @@
 {
-  "commit": "fcef402b6b873c62ed05ff65e7201ad616c98527",
-  "generated": "2024-10-09T14:58:01.301Z",
+  "commit": "7a742a2343c6eb7ea20eb2a6a02e16b3e4f881fa",
+  "generated": "2024-10-09T14:59:25.347Z",
   "metadata": [
     {
       "__outstatic": {
@@ -48,7 +48,7 @@
     },
     {
       "__outstatic": {
-        "commit": "fcef402b6b873c62ed05ff65e7201ad616c98527",
+        "commit": "7a742a2343c6eb7ea20eb2a6a02e16b3e4f881fa",
         "hash": "3955280787",
         "path": "docs/asdasd.mdx"
       },
