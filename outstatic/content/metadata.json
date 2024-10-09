@@ -1,6 +1,6 @@
 {
-  "commit": "7a742a2343c6eb7ea20eb2a6a02e16b3e4f881fa",
-  "generated": "2024-10-09T14:59:25.347Z",
+  "commit": "8365b208013751ad4d6021efcfe8913b2b586b2f",
+  "generated": "2024-10-09T15:13:41.054Z",
   "metadata": [
     {
       "__outstatic": {
@@ -12,22 +12,6 @@
       "description": "Welcome to the Next.js Documentation.",
       "slug": "indexx",
       "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "07a46d68a4ce21aeb0c25a3538066d8b95fa404e",
-        "hash": "1827046738",
-        "path": "outstatic/content/cars/ferrari.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "cars",
-      "publishedAt": "2024-10-09T13:29:24.825Z",
-      "slug": "ferrari",
-      "status": "draft",
-      "title": "Ferrari"
     },
     {
       "__outstatic": {
@@ -61,6 +45,22 @@
       "slug": "asdasd",
       "status": "draft",
       "title": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "8365b208013751ad4d6021efcfe8913b2b586b2f",
+        "hash": "257790707",
+        "path": "outstatic/content/cars/ferrari-car.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "cars",
+      "publishedAt": "2024-10-09T13:29:24.825Z",
+      "slug": "ferrari-car",
+      "status": "draft",
+      "title": "Ferrari"
     }
   ]
 }

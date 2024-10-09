@@ -1,6 +1,6 @@
 {
-  "commit": "0e175ba8efe7a83ca33ec7eaa304329d8f9d0539",
-  "generated": "2024-10-09T14:43:04.109Z",
+  "commit": "8365b208013751ad4d6021efcfe8913b2b586b2f",
+  "generated": "2024-10-09T15:13:41.054Z",
   "media": [
     {
       "__outstatic": {
@@ -11,6 +11,17 @@
       "alt": "",
       "filename": "close-E0Nz.webp",
       "publishedAt": "2024-10-09T14:43:04.109Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "8365b208013751ad4d6021efcfe8913b2b586b2f",
+        "hash": "1567046781",
+        "path": "public/images/e8xonwaxmaijfyr-c1Mj.jpeg"
+      },
+      "alt": "",
+      "filename": "e8xonwaxmaijfyr-c1Mj.jpeg",
+      "publishedAt": "2024-10-09T15:13:41.054Z",
       "type": "image"
     }
   ]
