@@ -3,5 +3,10 @@
     "name": "posts",
     "path": "outstatic/content/posts",
     "children": []
+  },
+  {
+    "name": "cards",
+    "path": "outstatic/content/cards",
+    "children": []
   }
 ]
