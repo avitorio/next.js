@@ -1,6 +1,17 @@
 {
-  "commit": "c3da3b54fed4af0d0911d7ea4f39ca3318a1d665",
-  "generated": "2024-10-09T14:37:06.920Z",
+  "commit": "0e175ba8efe7a83ca33ec7eaa304329d8f9d0539",
+  "generated": "2024-10-09T14:43:04.109Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "0e175ba8efe7a83ca33ec7eaa304329d8f9d0539",
+        "hash": "622252592",
+        "path": "public/images/close-E0Nz.webp"
+      },
+      "alt": "",
+      "filename": "close-E0Nz.webp",
+      "publishedAt": "2024-10-09T14:43:04.109Z",
+      "type": "image"
+    }
   ]
 }
