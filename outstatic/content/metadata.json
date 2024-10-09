@@ -1,6 +1,6 @@
 {
-  "commit": "69dec5a4c30f07fef40fd3e42d8cd3076f601132",
-  "generated": "2024-10-09T15:17:55.833Z",
+  "commit": "4f8af5c359709a54c775e204d338afc5afe29c11",
+  "generated": "2024-10-09T15:18:27.155Z",
   "metadata": [
     {
       "__outstatic": {
@@ -47,8 +47,8 @@
     },
     {
       "__outstatic": {
-        "commit": "69dec5a4c30f07fef40fd3e42d8cd3076f601132",
-        "hash": "77701230",
+        "commit": "4f8af5c359709a54c775e204d338afc5afe29c11",
+        "hash": "1202356009",
         "path": "docs/index.mdx"
       },
       "author": {
@@ -57,6 +57,7 @@
       },
       "collection": "docs",
       "description": "Welcome to the Next.js Documentation.",
+      "hey": true,
       "publishedAt": "2024-10-09T13:51:06.360Z",
       "slug": "index",
       "status": "draft",
