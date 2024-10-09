@@ -37,6 +37,12 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "Age"
+    },
+    "year": {
+      "required": true,
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Year"
     }
   }
 }
