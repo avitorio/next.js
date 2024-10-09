@@ -1,6 +1,6 @@
 {
-  "commit": "9fcaf06614703e801643ad94071e2b9413b3bfc6",
-  "generated": "2024-10-09T14:10:31.499Z",
+  "commit": "efc5d743dd0d0f82debaf3ff4e5ba607e8f85d9e",
+  "generated": "2024-10-09T14:43:43.635Z",
   "metadata": [
     {
       "__outstatic": {
@@ -31,13 +31,13 @@
     },
     {
       "__outstatic": {
-        "commit": "9fcaf06614703e801643ad94071e2b9413b3bfc6",
-        "hash": "3743826961",
+        "commit": "efc5d743dd0d0f82debaf3ff4e5ba607e8f85d9e",
+        "hash": "4105400797",
         "path": "docs/index.mdx"
       },
       "author": {
         "name": "Andre Vitorio",
-        "picture": "https://picsum.photos/542"
+        "picture": ""
       },
       "collection": "docs",
       "description": "Welcome to the Next.js Documentation.",
