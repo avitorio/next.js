@@ -1,6 +1,6 @@
 {
-  "commit": "07a46d68a4ce21aeb0c25a3538066d8b95fa404e",
-  "generated": "2024-10-09T13:47:39.484Z",
+  "commit": "9fcaf06614703e801643ad94071e2b9413b3bfc6",
+  "generated": "2024-10-09T14:10:31.499Z",
   "metadata": [
     {
       "__outstatic": {
@@ -28,6 +28,23 @@
       "slug": "ferrari",
       "status": "draft",
       "title": "Ferrari"
+    },
+    {
+      "__outstatic": {
+        "commit": "9fcaf06614703e801643ad94071e2b9413b3bfc6",
+        "hash": "3743826961",
+        "path": "docs/index.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://picsum.photos/542"
+      },
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "publishedAt": "2024-10-09T13:51:06.360Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "Introduction"
     }
   ]
 }
