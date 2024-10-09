@@ -31,6 +31,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "asddsda"
+    },
+    "age": {
+      "required": false,
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Age"
     }
   }
 }
