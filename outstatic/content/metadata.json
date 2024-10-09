@@ -1,6 +1,6 @@
 {
-  "commit": "c021023d03049d4b6bc330ead549dc1f68f7d6c6",
-  "generated": "2024-10-09T00:29:49.976Z",
+  "commit": "402b4db5fe96a1cc2cd950fe975e3debebc7af31",
+  "generated": "2024-10-09T00:44:12.076Z",
   "metadata": [
     {
       "__outstatic": {
@@ -220,18 +220,18 @@
     },
     {
       "__outstatic": {
-        "commit": "c021023d03049d4b6bc330ead549dc1f68f7d6c6",
-        "hash": "4087176249",
+        "commit": "402b4db5fe96a1cc2cd950fe975e3debebc7af31",
+        "hash": "3617669014",
         "path": "docs/asdasd.mdx"
       },
-      "asddsda": "asdasd",
+      "asddsda": "asdad",
       "author": {
         "name": "Andre Vitorio",
-        "picture": ""
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "docs",
       "description": "",
-      "image": "",
+      "image": "https://picsum.photos/400",
       "poster": "",
       "publishedAt": "2024-10-08T22:05:01.607Z",
       "slug": "asdasd",
