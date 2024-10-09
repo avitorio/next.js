@@ -1,6 +1,6 @@
 {
-  "commit": "e334c2785451709c0a73a7d029ba6c6d41cd389f",
-  "generated": "2024-10-09T14:55:19.396Z",
+  "commit": "491b7662df51aea166d2529e02247ebcc739ef4a",
+  "generated": "2024-10-09T14:57:08.648Z",
   "metadata": [
     {
       "__outstatic": {
@@ -45,6 +45,22 @@
       "slug": "index",
       "status": "draft",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "491b7662df51aea166d2529e02247ebcc739ef4a",
+        "hash": "3955280787",
+        "path": "docs/asdasd.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "docs",
+      "publishedAt": "2024-10-09T14:38:53.546Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "title": ""
     }
   ]
 }
