@@ -1,6 +1,6 @@
 {
-  "commit": "ad4a0786ee2dd11171f9c645ca4468d56613b200",
-  "generated": "2024-10-09T01:02:37.438Z",
+  "commit": "9f2fec361bff8daaaff8dee073a9c0fd4b5d4ca9",
+  "generated": "2024-10-09T01:05:35.688Z",
   "metadata": [
     {
       "__outstatic": {
@@ -243,8 +243,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ad4a0786ee2dd11171f9c645ca4468d56613b200",
-        "hash": "2215651691",
+        "commit": "9f2fec361bff8daaaff8dee073a9c0fd4b5d4ca9",
+        "hash": "3806697106",
         "path": "docs/dfsf.mdx"
       },
       "age": "34",
@@ -259,8 +259,9 @@
       "publishedAt": "2024-10-09T00:42:27.894Z",
       "slug": "dfsf",
       "status": "draft",
-      "tags": [
-      ],
+      "tags": {
+        "0": "[object Object]"
+      },
       "title": "",
       "trip": "",
       "year": "34"
