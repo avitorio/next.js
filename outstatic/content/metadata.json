@@ -1,6 +1,6 @@
 {
-  "commit": "7c4b61def86a12e9dfa59183279a82c129d365a3",
-  "generated": "2024-10-09T12:54:14.862Z",
+  "commit": "f5f0db4ee93b0cce5dddc617f21ac862917c2ff2",
+  "generated": "2024-10-09T13:02:18.434Z",
   "metadata": [
     {
       "__outstatic": {
@@ -225,29 +225,33 @@
     },
     {
       "__outstatic": {
-        "commit": "7c4b61def86a12e9dfa59183279a82c129d365a3",
-        "hash": "2157476402",
+        "commit": "f5f0db4ee93b0cce5dddc617f21ac862917c2ff2",
+        "hash": "3513019076",
         "path": "docs/asdasd.mdx"
       },
-      "age": "33",
+      "age": 33,
       "asddsda": "asdad",
       "author": {
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "docs",
-      "description": "asdasd",
+      "content": "",
+      "description": "asdasdasd",
       "image": "https://picsum.photos/400",
       "poster": "",
       "publishedAt": "2024-10-08T22:05:01.607Z",
       "slug": "asdasd",
       "status": "draft",
-      "tags": {
-        "0": "[object Object]"
-      },
+      "tags": [
+        {
+          "label": "Hosp",
+          "value": "hosp"
+        }
+      ],
       "title": "",
       "trip": "",
-      "year": "45"
+      "year": 45
     }
   ]
 }
