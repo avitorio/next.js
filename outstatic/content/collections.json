@@ -8,5 +8,10 @@
     "name": "cards",
     "path": "outstatic/content/cards",
     "children": []
+  },
+  {
+    "name": "cars",
+    "path": "outstatic/content/cars",
+    "children": []
   }
 ]
