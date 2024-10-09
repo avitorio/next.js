@@ -55,6 +55,12 @@
           "label": "Hosp"
         }
       ]
+    },
+    "cEntury": {
+      "required": true,
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "CEntury"
     }
   }
 }
