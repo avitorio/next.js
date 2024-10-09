@@ -19,6 +19,13 @@
       "fieldType": "Boolean",
       "dataType": "boolean",
       "title": "Hey"
+    },
+    "accept": {
+      "description": "Do you accept the terms?",
+      "required": false,
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "Accept"
     }
   }
 }
