@@ -1,6 +1,6 @@
 {
-  "commit": "402b4db5fe96a1cc2cd950fe975e3debebc7af31",
-  "generated": "2024-10-09T00:44:12.076Z",
+  "commit": "8978d0379e683de0cf5df17bffc7a461cc5b2ef3",
+  "generated": "2024-10-09T00:52:23.933Z",
   "metadata": [
     {
       "__outstatic": {
@@ -220,10 +220,11 @@
     },
     {
       "__outstatic": {
-        "commit": "402b4db5fe96a1cc2cd950fe975e3debebc7af31",
-        "hash": "3617669014",
+        "commit": "8978d0379e683de0cf5df17bffc7a461cc5b2ef3",
+        "hash": "3997155373",
         "path": "docs/asdasd.mdx"
       },
+      "age": "33",
       "asddsda": "asdad",
       "author": {
         "name": "Andre Vitorio",
