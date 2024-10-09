@@ -1,17 +1,6 @@
 {
-  "commit": "",
-  "generated": "2024-10-09T14:36:00.829Z",
+  "commit": "c3da3b54fed4af0d0911d7ea4f39ca3318a1d665",
+  "generated": "2024-10-09T14:37:06.920Z",
   "media": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "622252592",
-        "path": "close-Q3MT.webp"
-      },
-      "alt": "",
-      "filename": "close-Q3MT.webp",
-      "publishedAt": "2024-10-09T14:36:00.829Z",
-      "type": "image"
-    }
   ]
 }
