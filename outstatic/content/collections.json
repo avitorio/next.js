@@ -18,10 +18,5 @@
     "name": "cities",
     "path": "outstatic/content/cities",
     "children": []
-  },
-  {
-    "name": "docs",
-    "path": "docs/docs",
-    "children": []
   }
 ]
