@@ -1,6 +1,6 @@
 {
-  "commit": "8365b208013751ad4d6021efcfe8913b2b586b2f",
-  "generated": "2024-10-09T15:13:41.054Z",
+  "commit": "69dec5a4c30f07fef40fd3e42d8cd3076f601132",
+  "generated": "2024-10-09T15:17:55.833Z",
   "metadata": [
     {
       "__outstatic": {
@@ -11,23 +11,6 @@
       "collection": "docs",
       "description": "Welcome to the Next.js Documentation.",
       "slug": "indexx",
-      "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "e334c2785451709c0a73a7d029ba6c6d41cd389f",
-        "hash": "2403977034",
-        "path": "docs/index.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://picsum.photos/777"
-      },
-      "collection": "docs",
-      "description": "Welcome to the Next.js Documentation.",
-      "publishedAt": "2024-10-09T13:51:06.360Z",
-      "slug": "index",
-      "status": "draft",
       "title": "Introduction"
     },
     {
@@ -61,6 +44,24 @@
       "slug": "ferrari-car",
       "status": "draft",
       "title": "Ferrari"
+    },
+    {
+      "__outstatic": {
+        "commit": "69dec5a4c30f07fef40fd3e42d8cd3076f601132",
+        "hash": "77701230",
+        "path": "docs/index.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://picsum.photos/777"
+      },
+      "collection": "docs",
+      "description": "Welcome to the Next.js Documentation.",
+      "publishedAt": "2024-10-09T13:51:06.360Z",
+      "slug": "index",
+      "status": "draft",
+      "title": "Introduction",
+      "version": 14
     }
   ]
 }
