@@ -1,22 +1,6 @@
 {
-  "commit": "",
-  "generated": "2024-10-09T13:32:10.367Z",
+  "commit": "ed72c7be6e1d733e5a5b5707b8f702477d51cfb4",
+  "generated": "2024-10-09T13:32:48.874Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "1018473476",
-        "path": "outstatic/content/cities/maceio.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "cities",
-      "publishedAt": "2024-10-09T13:13:53.359Z",
-      "slug": "maceio",
-      "status": "draft",
-      "title": "Maceió"
-    }
   ]
 }

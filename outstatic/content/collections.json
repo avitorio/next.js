@@ -8,10 +8,5 @@
     "name": "cars",
     "path": "outstatic/content/cars",
     "children": []
-  },
-  {
-    "name": "cities",
-    "path": "outstatic/content/cities",
-    "children": []
   }
 ]
