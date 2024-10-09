@@ -1,6 +1,6 @@
 {
-  "commit": "c92bb096e3f23e2d7991f44d8e5eb17a09d8d105",
-  "generated": "2024-10-09T00:00:30.950Z",
+  "commit": "c36e8c3b4016f201c874671ecab155cbfd607118",
+  "generated": "2024-10-09T00:29:44.628Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,26 +202,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9849599fc8866ad7874722a4e473f4d2c1ad4e9d",
-        "hash": "570685727",
-        "path": "docs/asdasda.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "docs",
-      "description": "",
-      "image": "",
-      "poster": "",
-      "publishedAt": "2024-10-08T22:05:01.607Z",
-      "slug": "asdasda",
-      "status": "draft",
-      "title": "",
-      "trip": ""
-    },
-    {
-      "__outstatic": {
         "commit": "c92bb096e3f23e2d7991f44d8e5eb17a09d8d105",
         "hash": "1244748951",
         "path": "docs/02-app/asdasd.mdx"
@@ -237,6 +217,27 @@
       "status": "draft",
       "title": "",
       "year": "2024-10-15T03:00:00.000Z"
+    },
+    {
+      "__outstatic": {
+        "commit": "c36e8c3b4016f201c874671ecab155cbfd607118",
+        "hash": "3227970717",
+        "path": "docs/.mdx"
+      },
+      "asddsda": "",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "docs",
+      "description": "",
+      "image": "",
+      "poster": "",
+      "publishedAt": "2024-10-08T22:05:01.607Z",
+      "slug": "",
+      "status": "draft",
+      "title": "",
+      "trip": ""
     }
   ]
 }
