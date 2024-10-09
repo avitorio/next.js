@@ -1,6 +1,6 @@
 {
-  "commit": "bcf4ca2af65e1b5c15b85f59c9601a44dcf7dbb4",
-  "generated": "2024-10-09T13:06:27.133Z",
+  "commit": "f7d9717eee33ba4eb1d077390b14137fd0ed0246",
+  "generated": "2024-10-09T13:06:54.315Z",
   "metadata": [
     {
       "__outstatic": {
@@ -225,8 +225,8 @@
     },
     {
       "__outstatic": {
-        "commit": "bcf4ca2af65e1b5c15b85f59c9601a44dcf7dbb4",
-        "hash": "3369610791",
+        "commit": "f7d9717eee33ba4eb1d077390b14137fd0ed0246",
+        "hash": "18806359",
         "path": "docs/asdasd.mdx"
       },
       "age": 33,
@@ -238,7 +238,7 @@
       "collection": "docs",
       "description": "asdasdasdds",
       "image": "https://picsum.photos/400",
-      "poster": "",
+      "poster": "/images/close-Y3MT.webp",
       "publishedAt": "2024-10-08T22:05:01.607Z",
       "slug": "asdasd",
       "status": "draft",
