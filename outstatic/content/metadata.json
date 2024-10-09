@@ -1,6 +1,6 @@
 {
-  "commit": "f5f0db4ee93b0cce5dddc617f21ac862917c2ff2",
-  "generated": "2024-10-09T13:02:18.434Z",
+  "commit": "3b85da247eebc56ee5c9a3c84e9a8643a2349e25",
+  "generated": "2024-10-09T13:02:55.171Z",
   "metadata": [
     {
       "__outstatic": {
@@ -225,8 +225,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f5f0db4ee93b0cce5dddc617f21ac862917c2ff2",
-        "hash": "3513019076",
+        "commit": "3b85da247eebc56ee5c9a3c84e9a8643a2349e25",
+        "hash": "2504442886",
         "path": "docs/asdasd.mdx"
       },
       "age": 33,
@@ -237,7 +237,7 @@
       },
       "collection": "docs",
       "content": "",
-      "description": "asdasdasd",
+      "description": "asdasdasdds",
       "image": "https://picsum.photos/400",
       "poster": "",
       "publishedAt": "2024-10-08T22:05:01.607Z",
