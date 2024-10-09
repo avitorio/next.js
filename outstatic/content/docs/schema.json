@@ -7,6 +7,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Description"
+    },
+    "version": {
+      "required": false,
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Version"
     }
   }
 }
