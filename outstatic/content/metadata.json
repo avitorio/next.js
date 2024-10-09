@@ -1,6 +1,6 @@
 {
-  "commit": "ca43cad3f340d8e8e752192e514b220337d924fe",
-  "generated": "2024-10-09T13:03:40.431Z",
+  "commit": "bcf4ca2af65e1b5c15b85f59c9601a44dcf7dbb4",
+  "generated": "2024-10-09T13:06:27.133Z",
   "metadata": [
     {
       "__outstatic": {
@@ -225,8 +225,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ca43cad3f340d8e8e752192e514b220337d924fe",
-        "hash": "2504442886",
+        "commit": "bcf4ca2af65e1b5c15b85f59c9601a44dcf7dbb4",
+        "hash": "3369610791",
         "path": "docs/asdasd.mdx"
       },
       "age": 33,
@@ -236,7 +236,6 @@
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "docs",
-      "content": "",
       "description": "asdasdasdds",
       "image": "https://picsum.photos/400",
       "poster": "",
@@ -249,7 +248,7 @@
           "value": "hosp"
         }
       ],
-      "title": "",
+      "title": "Lovely times",
       "trip": "",
       "year": 45
     }
