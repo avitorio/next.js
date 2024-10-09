@@ -1,6 +1,6 @@
 {
-  "commit": "7b53f25e0928b8fd2bd9e6cc40a5d7a3343b20a0",
-  "generated": "2024-10-09T00:59:49.860Z",
+  "commit": "0679cf5c0658dc39b23244183d39e617c3ef885f",
+  "generated": "2024-10-09T01:00:06.295Z",
   "metadata": [
     {
       "__outstatic": {
@@ -220,8 +220,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7b53f25e0928b8fd2bd9e6cc40a5d7a3343b20a0",
-        "hash": "1640405794",
+        "commit": "0679cf5c0658dc39b23244183d39e617c3ef885f",
+        "hash": "818070436",
         "path": "docs/asdasd.mdx"
       },
       "age": "33",
@@ -239,7 +239,7 @@
       "status": "draft",
       "title": "",
       "trip": "",
-      "year": ""
+      "year": "45"
     }
   ]
 }
