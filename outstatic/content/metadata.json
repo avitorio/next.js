@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Wed, 09 Oct 2024 01:07:40 GMT",
+  "commit": "eb433cd0661ad6471f90f225d308ce89564e6f0f",
+  "generated": "2024-10-09T12:36:37.993Z",
   "metadata": [
     {
       "__outstatic": {
@@ -47,29 +47,6 @@
       "status": "draft",
       "title": "",
       "trip": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "43e45fd4806bbfedc449c781c62e3eccbb7e51a4",
-        "hash": "818070436",
-        "path": "docs/asdasd.mdx"
-      },
-      "age": "33",
-      "asddsda": "asdad",
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "description": "",
-      "image": "https://picsum.photos/400",
-      "poster": "",
-      "publishedAt": "2024-10-08T22:05:01.607Z",
-      "slug": "asdasd",
-      "status": "draft",
-      "title": "",
-      "trip": "",
-      "year": "45"
     },
     {
       "__outstatic": {
@@ -245,6 +222,32 @@
       "slug": "outstatic-how-to",
       "status": "draft",
       "title": "Outstatic how to"
+    },
+    {
+      "__outstatic": {
+        "commit": "eb433cd0661ad6471f90f225d308ce89564e6f0f",
+        "hash": "2157476402",
+        "path": "docs/asdasd.mdx"
+      },
+      "age": "33",
+      "asddsda": "asdad",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "description": "asdasd",
+      "image": "https://picsum.photos/400",
+      "poster": "",
+      "publishedAt": "2024-10-08T22:05:01.607Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "tags": {
+        "0": "[object Object]"
+      },
+      "title": "",
+      "trip": "",
+      "year": "45"
     }
   ]
 }
