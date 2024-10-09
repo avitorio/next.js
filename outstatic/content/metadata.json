@@ -1,6 +1,6 @@
 {
-  "commit": "0679cf5c0658dc39b23244183d39e617c3ef885f",
-  "generated": "2024-10-09T01:00:06.295Z",
+  "commit": "faba0b110298d9afb0762ea1285efd83f306652e",
+  "generated": "2024-10-09T01:01:11.624Z",
   "metadata": [
     {
       "__outstatic": {
@@ -240,6 +240,28 @@
       "title": "",
       "trip": "",
       "year": "45"
+    },
+    {
+      "__outstatic": {
+        "commit": "faba0b110298d9afb0762ea1285efd83f306652e",
+        "hash": "646582047",
+        "path": "docs/dfsf.mdx"
+      },
+      "age": "34",
+      "asddsda": "asdasd",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "description": "",
+      "image": "http://picsum.photos/200",
+      "publishedAt": "2024-10-09T00:42:27.894Z",
+      "slug": "dfsf",
+      "status": "draft",
+      "title": "",
+      "trip": "",
+      "year": "14"
     }
   ]
 }
