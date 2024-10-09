@@ -13,6 +13,12 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "Version"
+    },
+    "hey": {
+      "required": true,
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "Hey"
     }
   }
 }
